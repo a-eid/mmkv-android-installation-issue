@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mmkv-andorid-bug",
+    "slug": "mmkv-andorid-bug",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mmkv-andorid-bug"
+}
